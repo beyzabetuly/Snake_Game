@@ -1,0 +1,10 @@
+C:\Users\Beyza\source\repos\Snake_Games\Snake_Games\bin\Debug\Snake_Games.exe.config
+C:\Users\Beyza\source\repos\Snake_Games\Snake_Games\bin\Debug\Snake_Games.exe
+C:\Users\Beyza\source\repos\Snake_Games\Snake_Games\bin\Debug\Snake_Games.pdb
+C:\Users\Beyza\source\repos\Snake_Games\Snake_Games\obj\Debug\Snake_Games.csproj.AssemblyReference.cache
+C:\Users\Beyza\source\repos\Snake_Games\Snake_Games\obj\Debug\Snake_Games.Form1.resources
+C:\Users\Beyza\source\repos\Snake_Games\Snake_Games\obj\Debug\Snake_Games.Properties.Resources.resources
+C:\Users\Beyza\source\repos\Snake_Games\Snake_Games\obj\Debug\Snake_Games.csproj.GenerateResource.cache
+C:\Users\Beyza\source\repos\Snake_Games\Snake_Games\obj\Debug\Snake_Games.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\source\repos\Snake_Games\Snake_Games\obj\Debug\Snake_Games.exe
+C:\Users\Beyza\source\repos\Snake_Games\Snake_Games\obj\Debug\Snake_Games.pdb
